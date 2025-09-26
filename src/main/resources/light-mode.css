@@ -1,0 +1,100 @@
+/* Tema Claro - Bradypus Torquatus Pdf */
+.root {
+    -fx-background-color: #f5f5f5;
+}
+
+.border-pane {
+    -fx-background-color: #f5f5f5;
+}
+
+.split-pane {
+    -fx-background-color: #f5f5f5;
+}
+
+.split-pane-divider {
+    -fx-background-color: #cccccc;
+}
+
+.tool-bar {
+    -fx-background-color: #e8e8e8;
+}
+
+.menu-bar {
+    -fx-background-color: #e8e8e8;
+}
+
+.menu-bar .menu {
+    -fx-background-color: #e8e8e8;
+    -fx-text-fill: black;
+}
+
+.menu-bar .menu:hover {
+    -fx-background-color: #d8d8d8;
+}
+
+.menu-item {
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+.menu-item:hover {
+    -fx-background-color: #e8e8e8;
+}
+
+.text-area, .inline-css-text-area {
+    -fx-control-inner-background: white;
+    -fx-text-fill: black;
+    -fx-font-family: "Times New Roman";
+    -fx-font-size: 12pt;
+}
+
+.label {
+    -fx-text-fill: black;
+}
+
+.button, .toggle-button {
+    -fx-background-color: #f0f0f0;
+    -fx-text-fill: black;
+}
+
+.button:hover, .toggle-button:hover {
+    -fx-background-color: #e0e0e0;
+}
+
+.combo-box {
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+.scroll-pane {
+    -fx-background-color: white;
+}
+
+.vbox {
+    -fx-background-color: white;
+}
+
+.dialog-pane {
+    -fx-background-color: white;
+}
+
+.dialog-pane .label {
+    -fx-text-fill: black;
+}
+
+.dialog-pane .button {
+    -fx-background-color: #f0f0f0;
+    -fx-text-fill: black;
+}
+
+.dialog-pane .button:hover {
+    -fx-background-color: #e0e0e0;
+}
+
+.dialog-pane .content {
+    -fx-text-fill: black;
+}
+
+.separator {
+    -fx-background-color: #cccccc;
+}
